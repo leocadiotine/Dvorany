@@ -1,6 +1,6 @@
 #Dvorany
 
-![https://dl.dropboxusercontent.com/u/5135185/blog/Dvorany.JPG](Dvorany)
+![Dvorany](https://dl.dropboxusercontent.com/u/5135185/blog/Dvorany.JPG)
 
 Arduino-powered box that enables the use of a Dvorak keyboard on any computer.
 
