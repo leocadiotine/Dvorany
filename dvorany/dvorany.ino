@@ -127,6 +127,8 @@ void kbd_poll(void)
     /* Check for change */
     for (i=0; i<8; i++) {
         if (buf[i] != old_buf[i]) {
+          
+            translate_to_dvorak(buf);
 	    /* Send the new key presses to the host */
 	    Serial.write(buf, 8);
 
@@ -198,4 +200,3 @@ bool key_is_new(uint8_t key, uint8_t *report)
     }
     return true;
 }
-
