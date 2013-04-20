@@ -2,7 +2,7 @@
 
 ![Dvorany](https://dl.dropboxusercontent.com/u/5135185/blog/Dvorany.JPG)
 
-Arduino-powered box that enables the use of a Dvorak keyboard on any computer.
+Arduino-powered box that enables the use of the Dvorak keyboard layout on any computer.
 
 ##Purpose
 If you use Dvorak as your keyboard layout, it's always a pain to use someone else's computer. Trying to type on a QWERTY keyboard not only makes you look like a fool, but is also annoying and terribly slow.
@@ -12,7 +12,8 @@ To work around this, you can always go to the system settings and change the key
 * Trying to change the keyboard settings on an operating system different than the one you're used to is hard. And there is the chance that this particular OS doesn't support Dvorak;
 * Sometimes you don't have administrator rights on the computer, so you can't change the keyboard settings;
 * Trying to pair-program with a QWERTY friend on the same computer is impossible;
-* When being interviewed for a job or giving a lecture, sometimes you're prompted to use their computer (and their keyboard layout). Going to all the hassle above can take time and annoy people.
+* When being interviewed for a job or giving a lecture, sometimes you're prompted to use their computer (and their keyboard layout). Going to all the hassle above can take time and annoy people;
+* Trying to set up a BIOS or install an OS from the command line is impossible with Dvorak.
 
 Dvorany aims to solve that problem by using hardware. You can plug any USB keyboard to Dvorany and type using your Dvorak style. Dvorany will appear as a regular USB keyboard to the host (QWERTY) computer, but all your keystrokes will appear as you intended them to appear, as if the system settings are set to use Dvorak.
 
