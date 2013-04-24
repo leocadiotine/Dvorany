@@ -25,6 +25,8 @@ Instead of talking about it, it's better to see it in action:
 ##Can I use it?
 Sure. You're always welcome to create a Dvorany yourself. If you want me to make one for you, just mail me at me[at]leocad.io and make your special request.
 
+Instructions on how to create yours can be found at the [wiki page](https://github.com/leocadiotine/Dvorany/wiki/How-to-create-your-Dvorany).
+
 ##License
 Dvorany source code is released under BSD 2-clause license. Check LICENSE file for more information.
 
