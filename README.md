@@ -40,6 +40,9 @@ Dvorany was based on darran's awesome work. Especially [this project](http://hun
 
 This was also only possible thanks to [felis](https://github.com/felis)' great work on creating a [library for Circuits@Home USB shield](https://github.com/felis/USB_Host_Shield/).
 
+##What next?
+Dvorany deserves a pretty enclosure, but unfortunately I don't have the skills to make a 3D model and print using a 3D printer. If you want to contribute, please get in touch!
+
 ##Suggestions? Comments?
 Pull requests are always welcome. So are donations :)
 
