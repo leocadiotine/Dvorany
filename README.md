@@ -20,7 +20,7 @@ Dvorany aims to solve that problem by using hardware. You can plug any USB keybo
 ##See it in action
 Instead of talking about it, it's better to see it in action:
 
-<a href="http://youtu.be/hPwisj-K4pg">![Dvorany on Youtube](https://dl.dropboxusercontent.com/u/5135185/blog/dvorany-video.png)</a>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/hPwisj-K4pg/0.jpg)](http://www.youtube.com/watch?v=hPwisj-K4pg)
 
 ##Can I use it?
 Sure. You're always welcome to create a Dvorany yourself. If you want me to make one for you, just mail me at me[at]leocad.io and make your special request.
